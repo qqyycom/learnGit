@@ -1,4 +1,4 @@
-gitÊÇ·Ö²¼Ê½°æ±¾¿ØÖÆ
+gitæ˜¯åˆ†å¸ƒå¼ç‰ˆæœ¬æ§åˆ¶
 git is version control system
-gitÊÇÃâ·ÑÈí¼ş
+gitæ˜¯å…è´¹è½¯ä»¶
 git is free software
