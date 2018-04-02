@@ -7,3 +7,4 @@ git has remote reposirity
 git有远程库
 git 切换版本
 git switch version
+git may generate conflict when merge branch
